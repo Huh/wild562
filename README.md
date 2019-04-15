@@ -6,7 +6,7 @@ The purpose of these scripts is to provide a simple entry point that allows the 
 
 ### Project
 
-This repository contains a Rproject file and as such it is suggested the user clone the repository and then open the project instead of opening individual files. The project will set the working directory and ease sharing...as they do.
+This repository was created using a RStudio project. Users are encouraged to clone or fork the repository and then create/open a project of their own. The project will set the working directory and ease sharing...as they do.
 
 ### Warranty
 This code comes with no warranty implied or otherwise.
